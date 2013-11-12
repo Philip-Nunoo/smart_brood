@@ -13,7 +13,7 @@
     <string name="turn_heat_off">Turn Heat Off</string>
     
     <string name="turn_on_bluetooth">Turn Bluetooth On</string>
-    <string name="reading">reading&#8230; ?</string>
+    <string name="reading">reading&#8230;</string>
     
     <string name="min_temp">Min temp:</string>
     <string name="min_temp_txt">27</string>

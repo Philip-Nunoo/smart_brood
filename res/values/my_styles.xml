@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <style name="alert_default">
+        <item name="android:padding">6dp</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:background">@android:color/darker_gray</item>
+        <item name="android:typeface">monospace</item>
+    </style>
+    <style name="temp_info">
+        <item name="android:background">@color/grey</item>
+        <item name="android:padding">8dp</item>
+    </style>
+</resources>

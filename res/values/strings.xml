@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Brood Monitor</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="alert_box">Alert box</string>
+    <string name="to_fahreinheit">deg F</string>
+    <string name="to_degrees">deg C</string>
+    <string name="degrees">deg</string>
+    <string name="temp">27</string>
+    <string name="turn_heat_on">Turn Heat On</string>
+    <string name="turn_heat_off">Turn Heat Off</string>
+    
+    <string name="turn_on_bluetooth">Turn Bluetooth On</string>
+    <string name="reading">reading&#8230; ?</string>
+    
+    <string name="min_temp">Min temp:</string>
+    <string name="min_temp_txt">27</string>
+    <string name="max_temp">Max temp:</string>
+    <string name="max_temp_txt">32</string>
+    
+</resources>
